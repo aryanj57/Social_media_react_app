@@ -45,7 +45,7 @@ const Navbar = () => {
 
   return (
     <>
-      <AppBar position="sticky" elevation={"none"}>
+      <AppBar position="sticky">
         <StyledToolbar>
           <Typography
             variant="h6"
