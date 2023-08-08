@@ -71,7 +71,7 @@ const Add = () => {
               sx={{ width: 30, height: 30, marginTop: 2 }}
               src="https://images.pexels.com/photos/6962024/pexels-photo-6962024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             />
-            <Typography fontWeight={500} variant={"span"}>
+            <Typography fontWeight={500} variant={"h6"}>
               Alicia Scott
             </Typography>
           </UserBox>
